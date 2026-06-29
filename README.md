@@ -1,7 +1,6 @@
 # Weather Country API
 
 A simple Node.js application that fetches weather information for a given country using a Weather API.
-
 This project was created as part of my Back-End learning journey with SEF Academy.
 
 ---
